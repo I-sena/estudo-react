@@ -5,4 +5,3 @@
   + retorna ele cortado.
   + Salva o link cortado para uso futuro.
   + gerenciamento dos links salvos.
-
