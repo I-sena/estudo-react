@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bestudo-react%7D/static/css/main.0b09c4fd.css",
+    "main.js": "/%7Bestudo-react%7D/static/js/main.8d09da12.js",
+    "index.html": "/%7Bestudo-react%7D/index.html",
+    "main.0b09c4fd.css.map": "/%7Bestudo-react%7D/static/css/main.0b09c4fd.css.map",
+    "main.8d09da12.js.map": "/%7Bestudo-react%7D/static/js/main.8d09da12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b09c4fd.css",
+    "static/js/main.8d09da12.js"
+  ]
+}
